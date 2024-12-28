@@ -5,6 +5,7 @@
 - 📫 How to reach me @ iddrisusulemana665@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I like to watch nature
+- ✨ Founder: Simdi Technologies/Simdi Dev
 
 <!---
 Sulemana24/Sulemana24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
