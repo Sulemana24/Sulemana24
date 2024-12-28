@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Building Dynamic Websites
 - 📫 How to reach me @ iddrisusulemana665@gmail.com
-- 😄 Pronouns: Mr
+- 😄 Pronouns: I
 - ⚡ Fun fact: I like to watch nature
 - ✨ Founder: Simdi Technologies/Simdi Dev
 
