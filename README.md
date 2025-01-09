@@ -11,3 +11,5 @@
 Sulemana24/Sulemana24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://app.daily.dev/iddrisusulemana"><img src="https://api.daily.dev/devcards/v2/fAHnZ3qqrAwLViHeQTagz.png?type=default&r=2bw" width="356" alt="Iddrisu Sulemana's Dev Card"/></a>
