@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iddrisu Sulemana
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Building Dynamic Websites
 - 📫 How to reach me @ iddrisusulemana665@gmail.com
 - 😄 Pronouns: I
